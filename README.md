@@ -1,5 +1,6 @@
-## Created By Nazwa Nurfadhilla Phitri_21343061
+## Created by Nazwa Nurfadhilla Phitri_21343061
 Penjelasan Latihan :
+
 Latihan 1 membahas mengenai Passing by Value. Pada latihan ini data kita ambil dari kode pemanggil ke dalam method. Data yang diambil adalah variabel nya. Jika variable yang ada di method berubah maka varible yang ada pada kode pemanggil tidak berubah.
 
 Latihan 2 membahas mengenai Passing by Reference. Pada latihan ini data yang diambil dari kode pemanggil kedalam method, lalu yang dibawa adalah reference atau alamat dari variable. Jadi jika variable di method berubah maka variable pada kode pemanggil akan berubah juga.
